@@ -1,0 +1,14 @@
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/bin/Debug/net9.0/260111
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/bin/Debug/net9.0/260111.deps.json
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/bin/Debug/net9.0/260111.runtimeconfig.json
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/bin/Debug/net9.0/260111.dll
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/bin/Debug/net9.0/260111.pdb
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.AssemblyInfoInputs.cache
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.AssemblyInfo.cs
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.csproj.CoreCompileInputs.cache
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.dll
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/refint/260111.dll
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.pdb
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.genruntimeconfig.cache
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/ref/260111.dll
