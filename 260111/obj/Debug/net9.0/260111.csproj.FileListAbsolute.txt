@@ -12,3 +12,4 @@
 /Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.pdb
 /Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.genruntimeconfig.cache
 /Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/ref/260111.dll
+/Users/gwonjungeon/Documents/GitHub/PopeKim_C-/260111/obj/Debug/net9.0/260111.sourcelink.json

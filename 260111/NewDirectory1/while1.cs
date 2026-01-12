@@ -1,7 +1,7 @@
 namespace _260111.NewDirectory1;
 
 public class while1 {
-    public static void Main()
+    public static void Main2()
     {
         Console.WriteLine("User count: ");
         int length = int.Parse(Console.ReadLine());
